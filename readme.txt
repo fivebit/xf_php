@@ -27,4 +27,4 @@ $HTTP["host"] =~ "(www.)?domain.com$" {
      "^/(.+)/?$"  => "/index.php/$1",
   )
 }
-
+haha
